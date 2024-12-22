@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Allow specific file types
+!*.cpp
+!*.py
+!*.js
+!*.txt
+!*.md
+
+# Allow specific directories (optional, if needed)
+!*/
+
+# Optionally, include Git's own metadata files
+!.gitignore
